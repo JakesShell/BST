@@ -3,7 +3,7 @@ This repository features a Java implementation of a Binary Search Tree (BST), de
 
 <B>Key Features:</b>
 
-<i>Node Structure:</i> Each node in the tree contains a value and references to left and right children, encapsulated in the Node class.
+<i>Node Structure:<i/> Each node in the tree contains a value and references to left and right children, encapsulated in the Node class.
 
 <i>Insertion: Nodes can be added to the tree while maintaining the BST properties, ensuring that left children are smaller and right children are larger.
 
