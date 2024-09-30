@@ -28,7 +28,8 @@ This repository features a Java implementation of a Binary Search Tree (BST), de
 <b>How It Works:</b>
 
 <i>Insert Nodes:</i> Users can insert integer values into the tree, which organizes them according to BST rules.
-<i>Delete Nodes:</i> Users can remove nodes by their value, with the tree automatically rebalancing as needed.
+<i>Delete Nodes:</i> 
+  Users can remove nodes by their value, with the tree automatically rebalancing as needed.
 <i>Traversal Options:</i> Users can choose how to traverse the tree, with results printed to the console.
 
 This project serves as a practical exercise in understanding tree data structures and their operations, making it an excellent resource for students and developers looking to solidify their knowledge of algorithms and data management in Java.
