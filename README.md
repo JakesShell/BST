@@ -2,7 +2,7 @@
 This repository features a Java implementation of a Binary Search Tree (BST), designed to demonstrate fundamental data structure operations. The BinarySearchTree class provides methods for inserting, deleting, and traversing nodes in various orders.
 
 <B>Key Features:</b>
-
+<p>
 <i>Node Structure:<i/> Each node in the tree contains a value and references to left and right children, encapsulated in the Node class.
 
 <i>Insertion: Nodes can be added to the tree while maintaining the BST properties, ensuring that left children are smaller and right children are larger.
@@ -16,7 +16,7 @@ This repository features a Java implementation of a Binary Search Tree (BST), de
 <i>Pre-Order:</i> Outputs the root node before its children.
 
 <i>Post-Order:</i> Outputs the root node after its children.
-
+</p>
 <b>How It Works:</b>
 
 <i>Insert Nodes:</i> Users can insert integer values into the tree, which organizes them according to BST rules.
